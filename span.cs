@@ -3,7 +3,6 @@ public static class SpanExplanation
 {
     public static void printSpanTaskOutputs()
     {
-
         //span
         // task 1
         string input = "John,David,Michael,Sara";

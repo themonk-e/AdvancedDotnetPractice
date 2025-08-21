@@ -1,1 +1,5 @@
-﻿SpanExplanation.printSpanTaskOutputs();
+﻿//SPAN
+//SpanExplanation.printSpanTaskOutputs();
+
+//record
+RecordTask.printRecordTaskOutputs();
