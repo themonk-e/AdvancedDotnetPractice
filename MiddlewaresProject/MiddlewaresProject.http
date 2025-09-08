@@ -1,0 +1,6 @@
+@MiddlewaresProject_HostAddress = http://localhost:5097
+
+GET {{MiddlewaresProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
